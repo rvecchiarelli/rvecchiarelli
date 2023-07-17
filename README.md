@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rvecchiarelli
 - 👀 I’m interested in AI/ML/DL, CFD, Energy Modeling
-- 🌱 I’m currently learning Python, MATLAB, Rhino/Grasshopper, Mathematic Optimization 
+- 🌱 I’m currently learning Python, MATLAB, Rhino/Grasshopper
 - 📫 How to reach me rvecchiarell@student.ethz.ch
 
 <!---
